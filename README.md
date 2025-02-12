@@ -1,6 +1,3 @@
-Here's an expanded **README description** in **500 words**:
-
----
 
 # **University Insights**
 
